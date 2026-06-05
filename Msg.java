@@ -3,5 +3,7 @@ public class Msg{
 		System.out.println("addition");
                 System.out.println("subtraction");
                 System.out.println("mul");
+		System.out.println("div");
 	}
+
 }
